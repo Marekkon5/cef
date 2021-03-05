@@ -3,3 +3,4 @@ Resources
 /target
 **/*.rs.bk
 # Cargo.lock
+examples/target

@@ -204,7 +204,7 @@ dependencies = [
 [[package]]
 name = "cef-installer"
 version = "0.1.0"
-source = "git+https://github.com/dungeonfog/cef-sys.git?rev=a3d43fc9a624dc00e5a5cea90eebf88fd6c4aa5c#a3d43fc9a624dc00e5a5cea90eebf88fd6c4aa5c"
+source = "git+https://github.com/Marekkon5/cef-sys.git#59174bc19a8113bf62f24ee0c898327d729241ac"
 dependencies = [
  "bzip2",
  "regex",
@@ -216,7 +216,7 @@ dependencies = [
 [[package]]
 name = "cef-sys"
 version = "0.1.0"
-source = "git+https://github.com/dungeonfog/cef-sys.git?rev=a3d43fc9a624dc00e5a5cea90eebf88fd6c4aa5c#a3d43fc9a624dc00e5a5cea90eebf88fd6c4aa5c"
+source = "git+https://github.com/Marekkon5/cef-sys.git#59174bc19a8113bf62f24ee0c898327d729241ac"
 dependencies = [
  "cef-installer",
  "cmake",
